@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Umair Tufail
 #### I am Machine Learning Engineer
-![I am Machine Learning Engineer](banner.png)
+![I am Machine Learning Engineer](Banner.png)
 
 I am a skilled Machine Learning Engineer with expertise in Python, TensorFlow, PyTorch, Computer Vision, and NLP. I have a deep understanding of Machine Learning algorithms and the ability to develop innovative solutions using my knowledge.
 
