@@ -23,7 +23,7 @@ I'm currently expanding my skills in MLOps to create efficient, scalable, and ma
 
 - GitHub: [umairtufail](https://github.com/umairtufail)
 - LinkedIn: [umairtufail](https://www.linkedin.com/in/umairtufail/)
-- Kaggle: [umairtufail](https://www.kaggle.com/umairtufail/]
+- Kaggle: [Umair Tufail](https://www.kaggle.com/umairtufail)
   
 ## Achievements
 
