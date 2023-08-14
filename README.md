@@ -50,4 +50,5 @@ I'm currently focused on expanding my knowledge in MLOps.
 
 ## 👁️ Profile Views
 
-![Profile Views](https://gpvc.arturio.dev/umairtufail)
+![Profile Views](![Profile Views](https://komarev.com/ghpvc/umairtufail)
+)
