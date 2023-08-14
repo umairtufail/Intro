@@ -48,7 +48,3 @@ I'm currently focused on expanding my knowledge in MLOps.
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=umairtufail)
 
-## 👁️ Profile Views
-
-![Profile Views](![Profile Views](https://komarev.com/ghpvc/umairtufail)
-)
