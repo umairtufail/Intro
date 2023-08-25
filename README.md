@@ -47,6 +47,6 @@ I'm currently expanding my skills in MLOps to create efficient, scalable, and ma
 ![GitHub Metrics](https://metrics.lecoq.io/umairtufail)
 
 ## GitHub Streak Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umairtufail)](https://github.com/umairtufail/github-readme-stats)
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=umairtufail)
 
