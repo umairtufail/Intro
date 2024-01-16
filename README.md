@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Umair Tufail
+# Hi there! 
 
 Welcome to my GitHub profile! I'm a skilled Machine Learning Engineer with a passion for crafting intelligent solutions. Let's dive into my journey in the world of Machine Learning and MLOps.
 
