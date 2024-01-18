@@ -2,7 +2,7 @@
   <img src="https://github.com/umairtufail" alt="Profile Image" width="150"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+MA!;I'm+a+ML+Lead+Developer...;I'm+also+a+Data+Science+Expert;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+MA!;I'm+a+Machine+Learning+Lead...;I'm+also+a+Data+Science+Expert;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker..">
@@ -15,16 +15,21 @@
 - Enthusiastic about exploring new challenges and staying abreast of the latest developments in the field.
 - Open to exciting opportunities in Data Science and Machine Learning, including job roles, collaborative services, and engaging projects.
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 
-### › Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+### › MLOps Stack
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)&nbsp;
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)&nbsp;
+
+### › Machine Learning Engineer Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FCC624.svg?style=plastic&logo=tensorflow&logoColor=black)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-%23117ACC.svg?style=plastic&logo=scikit-learn&logoColor=white)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-%23F88F01.svg?style=plastic&logo=xgboost&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)&nbsp;
 
 ### Software & Tools
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white)&nbsp;
@@ -64,7 +69,7 @@
 <h3 align=""><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 5px;">Connect with me! </h3>
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/engrahsaninam/">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/umairtufail/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/umairtufail">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
