@@ -2,7 +2,7 @@
   <img src="https://github.com/umairtufail" alt="Profile Image" width="150"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Umair!;I'm+a+Python+Lead+Developer...;I'm+also+a+Data+Science+Expert;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+MA!;I'm+a+ML+Lead+Developer...;I'm+also+a+Data+Science+Expert;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker..">
@@ -64,11 +64,11 @@
   <div align="center" class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/engrahsaninam/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/engrahsaninam">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/umairtufail">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/14597285/engr-ahsan-inam">
+    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/14597285/umairtufail">
       <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="engrahsaninam#5255">
-      <img width="45" height="45" src="https://img.icons8.com/dusk/64/discord-logo.png" alt="discord-logo"/></a>
+    <a style="margin-left: 10px;" target="_blank" href="umairtufail#5255">
+      <img width="45" height="45" src="dexter4051" alt="discord-logo"/></a>
   </div>
 </p>
