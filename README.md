@@ -40,7 +40,6 @@
 ![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)&nbsp;
 
 ### IDEs
@@ -53,8 +52,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)&nbsp;
-![Pop!_OS](https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white)&nbsp;
-![Manjaro](https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white)&nbsp;
 
 </p>
 
