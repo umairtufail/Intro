@@ -10,7 +10,7 @@
 ## **About me**
 - A passionate self-driven Python Developer and Data Scientist with a focus on innovation and problem-solving.
 - Actively engaged in Data Science and Machine Learning projects, leveraging Python for impactful solutions.
-- Currently delving into Advanced Computer Vision, Transformers, and GANs to expand expertise in cutting-edge technologies.
+- Engaged in an exploration of Advanced Natural Language Processing (NLP), delving into Transformers and GPT (Generative Pre-trained Transformers) models to refine expertise in the forefront of linguistic technologies.
 - Enthusiastic about exploring new challenges and staying abreast of the latest developments in the field.
 - Open to exciting opportunities in Data Science and Machine Learning, including job roles, collaborative services, and engaging projects.
 
