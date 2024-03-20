@@ -15,15 +15,15 @@
 - Open to exciting opportunities in Data Science and Machine Learning, including job roles, collaborative services, and engaging projects.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
-
-### › MLOps Stack
 <!--
+### › MLOps Stack
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)&nbsp;
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)&nbsp;-->
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)&nbsp;
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)&nbsp;
-
+-->
 
 ### › Machine Learning Engineer Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FCC624.svg?style=plastic&logo=tensorflow&logoColor=black)&nbsp;
